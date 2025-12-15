@@ -1,2 +1,2 @@
 print('Welcome')
-print('Mậu ngu')
+print('Mpham oc c')
